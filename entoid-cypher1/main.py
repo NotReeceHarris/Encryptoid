@@ -25,7 +25,7 @@ def keyGen(key):
     random.seed(key)
     return hashlib.sha256( f'{ hashlib.sha256(key.encode()).hexdigest() }{ hashlib.sha256(random.randbytes(10)).hexdigest() }'.encode() )
 
-def fillerGen(content, shift):
+def fillerGen(content):
     fillerAmount =  round((len(content) / 2) * 10)
     filler = []
     for x in range(fillerAmount):
@@ -42,7 +42,7 @@ def ecr(key, content):
 
     cypherShift = shiftGen(key, cypherSize)
     cypherContent = [x.encode('utf-8') for x in content]
-    cypherFiller = fillerGen(content, cypherShift)
+    cypherFiller = fillerGen(content)
 
     random.seed(hashlib.sha256(str(cypherShift).encode()).hexdigest())
     print(f'''
