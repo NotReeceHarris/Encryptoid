@@ -9,7 +9,7 @@
 
 
 **Status**  : Bugged | No plan to fix at time of commit <br>
-**message** : This methord only works if the plain text key and message is less then 20 characters
+**message** : This program only works if the plain text key and message is less then 20 characters each.
 
 ***
 
