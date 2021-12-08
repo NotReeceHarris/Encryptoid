@@ -15,8 +15,6 @@ Encryption type, encryption name, and security rating are all controlled by [me]
 
 ***
 
-### // Table of content
-
 Encryption Type | Algorithm name | Security rating ( Weak 0 - 10 Strong) | Status | Code
 --- | --- | --- | --- | ---
 cipher shuffle | `entoid-cypher1` | **2** | bugs | [here](entoid-cypher1)
