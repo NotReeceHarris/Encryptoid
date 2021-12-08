@@ -19,4 +19,4 @@ Encryption type, encryption name, and security rating are all controlled by [me]
 
 Encryption Type | Algorithm name | Security rating ( Weak 0 - 10 Strong) | Status | Code
 --- | --- | --- | --- | ---
-cipher shuffle | `entoid-cypher1` | **2** | Working with bugs | [here]()
+cipher shuffle | `entoid-cypher1` | **2** | bugs | [here]()
