@@ -1,6 +1,6 @@
 ```
   ____|   \  |   ___|   _ \ \ \   /   _ \ __ __|  _ \ _ _|  __ \  
-  __|      \ |  |      |   | \   /   |   |   |   |   |  |   |   | // Link : https://github.com/NotReeceHarris/Encryptoid
+  __|      \ |  |      |   | \   /   |   |   |   |   |  |   |   | // Rate : 2
   |      |\  |  |      __ <     |    ___/    |   |   |  |   |   | // Name : entoid-cypher1
  _____| _| \_| \____| _| \_\   _|   _|      _|  \___/ ___| ____/  // Type : Cypher Shuffle
 ```
