@@ -7,6 +7,12 @@
 
 ***
 
+
+**Status**  : Bugged | No plan to fix at this time <br>
+**message** : This methord only works if the plain text key and message is less then 20 characters
+
+***
+
 ### // Diagram
 ``` 
  encoded password     Using the encoded password            Using the array locations iterate                 After iterating though all values
