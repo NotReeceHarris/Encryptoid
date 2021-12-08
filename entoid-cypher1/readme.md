@@ -8,7 +8,7 @@
 ***
 
 
-**Status**  : Bugged | No plan to fix at this time <br>
+**Status**  : Bugged | No plan to fix at time of commit <br>
 **message** : This methord only works if the plain text key and message is less then 20 characters
 
 ***
